@@ -221,3 +221,4 @@ class KittiRCNNDataset(KittiDataset):
         #         return self.get_proposal_from_file(index)
         # else:
         # raise NotImplementedError
+        
